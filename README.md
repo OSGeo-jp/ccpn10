@@ -14,4 +14,4 @@
 - 2018-12-02: 国連ベクトルタイルツールキットのプロジェクトリードが、FOSS4G Asia 2018 テクニカルセッションで基調講演
 
 ## 作業場所
-まずは、[Issues](https://github.com/OSGeo-jp/ccpn10/issues)で作業をしていきます。
+まずは、[Issues](https://github.com/OSGeo-jp/ccpn10/issues) で作業をしていきます。
